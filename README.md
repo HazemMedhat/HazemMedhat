@@ -1,16 +1,30 @@
 
-<h1 align="center">Hi, I'm Mohamed 👋</h1>
+<h1 align="center">Hi, I'm Hazem 👋</h1>
 <p align="center">
     <a href="https://www.kaggle.com/hazemmedhat"><img src="https://img.shields.io/badge/kaggle-%231FA1F1?style=flat&logo=kaggle&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/hazem-medhat-7a6546240/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    
-  
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+</p>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+## About Me:
 
-- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
-- 🔍 I have 2 live apps: 
-  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
-- 💬 Ask me about **ReactJs and Frontend**
+- Computer science student - Cairo university 
+- :test_tube: Iam studying in operation research and decision support department
+- :speech_balloon: Fresh data science & data analytics
+
+## Languages I use
+
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+## Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+
+
+
+
